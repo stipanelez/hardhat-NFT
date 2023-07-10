@@ -56,8 +56,8 @@ This project is apart of the Hardhat FreeCodeCamp.
 ## Quickstart
 
 ```
-git clone https://github.com/stipanelez/hardhat-fundme
-cd hardhat-fundme
+git clone https://github.com/stipanelez/hardhat-NFT
+cd hardhat-NFT
 yarn
 ```
 
