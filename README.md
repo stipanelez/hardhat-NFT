@@ -13,10 +13,10 @@ I hope that my comments will help you when reading the code
 I went through creating 3 different kinds of NFTs.
 
 A Basic NFT
-IPFS Hosted NFT
-  That uses Randomness to generate a unique NFT
-SVG NFT (Hosted 100% on-chain)
-  Uses price feeds to be dynamic
+
+IPFS Hosted NFT -> That uses Randomness to generate a unique NFT
+  
+SVG NFT (Hosted 100% on-chain) -> Uses price feeds to be dynamic
 
 - [Hardhat NFT](#hardhat-NFT)
 - [Getting Started](#getting-started)
